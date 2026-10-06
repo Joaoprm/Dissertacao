@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+  
+#J0,J1,J2,J6
+#J3,J4
+#J5
+
+
+   <tlLogic id="J0" type="static" programID="0" offset="0">
+        <phase duration="100" state="GGrrrrrGGrrrrrrrrr"/>  #P1
+        <phase duration="100" state="yyrrrrryyrrrrrrrrr"/>  
+        <phase duration="100" state="GGGrrrrrrrrrrrrrrr"/>  #P2
+        <phase duration="100" state="yyyrrrrrrrrrrrrrrr"/>  
+        <phase duration="100" state="rrrrrrrGGGrrrrrrrr"/>  #P3
+        <phase duration="100" state="rrrrrrryyyrrrrrrrr"/> 
+        <phase duration="100" state="rrGrrrrrrGrrrrrrrr"/>  #P4
+        <phase duration="100" state="rryrrrrrryrrrrrrrr"/>  
+        <phase duration="100" state="rrrGGGrrrrGGGrrrrr"/>  #P5
+        <phase duration="100" state="rrryyyrrrryyyrrrrr"/> 
+        <phase duration="100" state="rrrrrrrrrrGGGGrrrr"/>  #P6
+        <phase duration="100" state="rrrrrrrrrryyyyrrrr"/>  
+        <phase duration="100" state="rrrGGGGrrrrrrrrrrr"/>  #P7
+        <phase duration="100" state="rrryyyyrrrrrrrrrrr"/>  
+        <phase duration="100" state="rrrrrrGrrrrrrGrrrr"/>  #P8
+        <phase duration="100" state="rrrrrryrrrrrryrrrr"/>  
+        <phase duration="100" state="rrrrrrrrrrrrrrGGGG"/>  #P9
+        <phase duration="100" state="rrrrrrrrrrrrrrrrrr"/> 
+    </tlLogic>
+
+   <tlLogic id="J1" type="static" programID="0" offset="0">
+         <phase duration="100" state="GGrrrrrGGrrrrrrrrr"/>  #P1
+        <phase duration="100" state="yyrrrrryyrrrrrrrrr"/>  
+        <phase duration="100" state="GGGrrrrrrrrrrrrrrr"/>  #P2
+        <phase duration="100" state="yyyrrrrrrrrrrrrrrr"/>  
+        <phase duration="100" state="rrrrrrrGGGrrrrrrrr"/>  #P3
+        <phase duration="100" state="rrrrrrryyyrrrrrrrr"/> 
+        <phase duration="100" state="rrGrrrrrrGrrrrrrrr"/>  #P4
+        <phase duration="100" state="rryrrrrrryrrrrrrrr"/>  
+        <phase duration="100" state="rrrGGGrrrrGGGrrrrr"/>  #P5
+        <phase duration="100" state="rrryyyrrrryyyrrrrr"/> 
+        <phase duration="100" state="rrrrrrrrrrGGGGrrrr"/>  #P6
+        <phase duration="100" state="rrrrrrrrrryyyyrrrr"/>  
+        <phase duration="100" state="rrrGGGGrrrrrrrrrrr"/>  #P7
+        <phase duration="100" state="rrryyyyrrrrrrrrrrr"/>  
+        <phase duration="100" state="rrrrrrGrrrrrrGrrrr"/>  #P8
+        <phase duration="100" state="rrrrrryrrrrrryrrrr"/>  
+        <phase duration="100" state="rrrrrrrrrrrrrrGGGG"/>  #P9
+        <phase duration="100" state="rrrrrrrrrrrrrrrrrr"/> 
+    </tlLogic>
+    <tlLogic id="J2" type="static" programID="0" offset="0">
+        <phase duration="100" state="GGrrrrrGGrrrrrrrrr"/>  #P1
+        <phase duration="100" state="yyrrrrryyrrrrrrrrr"/>  
+        <phase duration="100" state="GGGrrrrrrrrrrrrrrr"/>  #P2
+        <phase duration="100" state="yyyrrrrrrrrrrrrrrr"/>  
+        <phase duration="100" state="rrrrrrrGGGrrrrrrrr"/>  #P3
+        <phase duration="100" state="rrrrrrryyyrrrrrrrr"/> 
+        <phase duration="100" state="rrGrrrrrrGrrrrrrrr"/>  #P4
+        <phase duration="100" state="rryrrrrrryrrrrrrrr"/>  
+        <phase duration="100" state="rrrGGGrrrrGGGrrrrr"/>  #P5
+        <phase duration="100" state="rrryyyrrrryyyrrrrr"/> 
+        <phase duration="100" state="rrrrrrrrrrGGGGrrrr"/>  #P6
+        <phase duration="100" state="rrrrrrrrrryyyyrrrr"/>  
+        <phase duration="100" state="rrrGGGGrrrrrrrrrrr"/>  #P7
+        <phase duration="100" state="rrryyyyrrrrrrrrrrr"/>  
+        <phase duration="100" state="rrrrrrGrrrrrrGrrrr"/>  #P8
+        <phase duration="100" state="rrrrrryrrrrrryrrrr"/>  
+        <phase duration="100" state="rrrrrrrrrrrrrrGGGG"/>  #P9
+        <phase duration="100" state="rrrrrrrrrrrrrrrrrr"/> 
+    </tlLogic>
+
+     <tlLogic id="J3" type="static" programID="0" offset="0">
+        <phase duration="100" state="GGrrrrGGrrrrrrrr"/>  #P1
+        <phase duration="100" state="yyrrrryyrrrrrrrr"/> 
+        <phase duration="100" state="GGGrrrrrrrrrrrrr"/>  #P2
+        <phase duration="100" state="yyyrrrrrrrrrrrrr"/>  
+        <phase duration="100" state="rrrrrrGGGrrrrrrr"/>  #P3
+        <phase duration="100" state="rrrrrryyyrrrrrrr"/>  
+        <phase duration="100" state="rrGrrrrrGrrrrrrr"/>  #P4
+        <phase duration="100" state="rryrrrrryrrrrrrr"/> 
+        <phase duration="100" state="rrrGGrrrrGGrrrrr"/>  #P5
+        <phase duration="100" state="rrryyrrrryyrrrrr"/>
+        <phase duration="100" state="rrrrrrrrGGGrrrrr"/>  #P6
+        <phase duration="100" state="rrrrrrrryyyrrrrr"/>  
+        <phase duration="100" state="rrrGGGrrrrrrrrrr"/>  #P7
+        <phase duration="100" state="rrryyyrrrrrrrrrr"/> 
+        <phase duration="100" state="rrrrrGrrrrrGrrrr"/>  #P8
+        <phase duration="100" state="rrrrryrrrrryrrrr"/>  
+        <phase duration="100" state="rrrrrrrrrrrrGGGG"/>  #P9
+        <phase duration="100" state="rrrrrrrrrrrrrrrr"/> 
+      
+    </tlLogic>
+
+    
+    <tlLogic id="J4" type="static" programID="0" offset="0">
+        <phase duration="100" state="GGrrrrGGrrrrrrrr"/>  #P1
+        <phase duration="100" state="yyrrrryyrrrrrrrr"/> 
+        <phase duration="100" state="GGGrrrrrrrrrrrrr"/>  #P2
+        <phase duration="100" state="yyyrrrrrrrrrrrrr"/>  
+        <phase duration="100" state="rrrrrrGGGrrrrrrr"/>  #P3
+        <phase duration="100" state="rrrrrryyyrrrrrrr"/>  
+        <phase duration="100" state="rrGrrrrrGrrrrrrr"/>  #P4
+        <phase duration="100" state="rryrrrrryrrrrrrr"/> 
+        <phase duration="100" state="rrrGGrrrrGGrrrrr"/>  #P5
+        <phase duration="100" state="rrryyrrrryyrrrrr"/>
+        <phase duration="100" state="rrrrrrrrGGGrrrrr"/>  #P6
+        <phase duration="100" state="rrrrrrrryyyrrrrr"/>  
+        <phase duration="100" state="rrrGGGrrrrrrrrrr"/>  #P7
+        <phase duration="100" state="rrryyyrrrrrrrrrr"/> 
+        <phase duration="100" state="rrrrrGrrrrrGrrrr"/>  #P8
+        <phase duration="100" state="rrrrryrrrrryrrrr"/>  
+        <phase duration="100" state="rrrrrrrrrrrrGGGG"/>  #P9
+        <phase duration="100" state="rrrrrrrrrrrrrrrr"/> 
+    </tlLogic>
+  
+    <tlLogic id="J5" type="static" programID="0" offset="0"> 
+        <phase duration="100" state="GGGGrrrrrrGGGGrrrrrrrrrr"/>  #P1
+        <phase duration="100" state="yyyyrrrrrryyyyrrrrrrrrrr"/>  
+        <phase duration="100" state="GGGGGrrrrrrrrrrrrrrrrrrr"/>  #P2
+        <phase duration="100" state="yyyyyrrrrrrrrrrrrrrrrrrr"/>  
+        <phase duration="100" state="rrrrrrrrrrGGGGGrrrrrrrrr"/>  #P3
+        <phase duration="100" state="rrrrrrrrrryyyyyrrrrrrrrr"/>  
+        <phase duration="100" state="rrrrGrrrrrrrrrGrrrrrrrrr"/>  #P4
+        <phase duration="100" state="rrrryrrrrrrrrryrrrrrrrrr"/>  
+        <phase duration="100" state="rrrrrGGGGrrrrrrGGGGrrrrr"/>  #P5
+        <phase duration="100" state="rrrrryyyyrrrrrryyyyrrrrr"/>  
+        <phase duration="100" state="rrrrrrrrrrrrrrrGGGGGrrrr"/>  #P6
+        <phase duration="100" state="rrrrrrrrrrrrrrryyyyyrrrr"/>  
+        <phase duration="100" state="rrrrrGGGGGrrrrrrrrrrrrrr"/>  #P7
+        <phase duration="100" state="rrrrryyyyyrrrrrrrrrrrrrr"/>  
+        <phase duration="100" state="rrrrrrrrrGrrrrrrrrrGrrrr"/>  #P8
+        <phase duration="100" state="rrrrrrrrryrrrrrrrrryrrrr"/> 
+        <phase duration="100" state="rrrrrrrrrrrrrrrrrrrrGGGG"/>  #P9
+        <phase duration="100" state="rrrrrrrrrrrrrrrrrrrrrrrr"/>  
+    </tlLogic>
+
+    <tlLogic id="J6" type="static" programID="0" offset="0"> 
+        <phase duration="100" state="GGrrrrrGGrrrrrrrrr"/>  #P1
+        <phase duration="100" state="yyrrrrryyrrrrrrrrr"/>  
+        <phase duration="100" state="GGGrrrrrrrrrrrrrrr"/>  #P2
+        <phase duration="100" state="yyyrrrrrrrrrrrrrrr"/>  
+        <phase duration="100" state="rrrrrrrGGGrrrrrrrr"/>  #P3
+        <phase duration="100" state="rrrrrrryyyrrrrrrrr"/> 
+        <phase duration="100" state="rrGrrrrrrGrrrrrrrr"/>  #P4
+        <phase duration="100" state="rryrrrrrryrrrrrrrr"/>  
+        <phase duration="100" state="rrrGGGrrrrGGGrrrrr"/>  #P5
+        <phase duration="100" state="rrryyyrrrryyyrrrrr"/> 
+        <phase duration="100" state="rrrrrrrrrrGGGGrrrr"/>  #P6
+        <phase duration="100" state="rrrrrrrrrryyyyrrrr"/>  
+        <phase duration="100" state="rrrGGGGrrrrrrrrrrr"/>  #P7
+        <phase duration="100" state="rrryyyyrrrrrrrrrrr"/>  
+        <phase duration="100" state="rrrrrrGrrrrrrGrrrr"/>  #P8
+        <phase duration="100" state="rrrrrryrrrrrryrrrr"/>  
+        <phase duration="100" state="rrrrrrrrrrrrrrGGGG"/>  #P9
+        <phase duration="100" state="rrrrrrrrrrrrrrrrrr"/>  
+    </tlLogic>
+    
+    <tlLogic id="J7" type="static" programID="0" offset="0"> 
+        <phase duration="100" state="GGGrrrrGGGrrrrrrrr"/>  #P1
+        <phase duration="100" state="yyyrrrryyyrrrrrrrr"/>  
+        <phase duration="100" state="GGGGrrrrrrrrrrrrrr"/>  #P2
+        <phase duration="100" state="yyyyrrrrrrrrrrrrrr"/>  
+        <phase duration="100" state="rrrrrrrGGGGrrrrrrr"/>  #P3
+        <phase duration="100" state="rrrrrrryyyyrrrrrrr"/>  
+        <phase duration="100" state="rrrGrrrrrGrrrrrrrr"/>  #P4
+        <phase duration="100" state="rrryrrrrryrrrrrrrr"/> 
+        <phase duration="100" state="rrrrGGrrrrrGGrrrrr"/>  #P5
+        <phase duration="100" state="rrrryyrrrrryyrrrrr"/>  
+        <phase duration="100" state="rrrrrrrrrrrGGGrrrr"/>  #P6
+        <phase duration="100" state="rrrrrrrrrrryyyrrrr"/> 
+        <phase duration="100" state="rrrGGGrrrrrrrrrrrr"/>  #P7
+        <phase duration="100" state="rrryyyrrrrrrrrrrrr"/>  
+        <phase duration="100" state="rrrrrrGrrrrrGrrrrr"/>  #P8
+        <phase duration="100" state="rrrrrryrrrrryrrrrr"/>  
+        <phase duration="100" state="rrrrrrrrrrrrrrGGGG"/>  #P9
+        <phase duration="100" state="rrrrrrrrrrrrrrrrrr"/>  
+    </tlLogic>
+    
+ 
+    <tlLogic id="J8" type="static" programID="0" offset="0"> 
+        <phase duration="100" state="GGGrrrrGGGrrrrrrrr"/>  #P1
+        <phase duration="100" state="yyyrrrryyyrrrrrrrr"/>  
+        <phase duration="100" state="GGGGrrrrrrrrrrrrrr"/>  #P2
+        <phase duration="100" state="yyyyrrrrrrrrrrrrrr"/>  
+        <phase duration="100" state="rrrrrrrGGGGrrrrrrr"/>  #P3
+        <phase duration="100" state="rrrrrrryyyyrrrrrrr"/>  
+        <phase duration="100" state="rrrGrrrrrGrrrrrrrr"/>  #P4
+        <phase duration="100" state="rrryrrrrryrrrrrrrr"/> 
+        <phase duration="100" state="rrrrGGrrrrrGGrrrrr"/>  #P5
+        <phase duration="100" state="rrrryyrrrrryyrrrrr"/>  
+        <phase duration="100" state="rrrrrrrrrrrGGGrrrr"/>  #P6
+        <phase duration="100" state="rrrrrrrrrrryyyrrrr"/> 
+        <phase duration="100" state="rrrGGGrrrrrrrrrrrr"/>  #P7
+        <phase duration="100" state="rrryyyrrrrrrrrrrrr"/>  
+        <phase duration="100" state="rrrrrrGrrrrrGrrrrr"/>  #P8
+        <phase duration="100" state="rrrrrryrrrrryrrrrr"/>  
+        <phase duration="100" state="rrrrrrrrrrrrrrGGGG"/>  #P9
+        <phase duration="100" state="rrrrrrrrrrrrrrrrrr"/>  
+    </tlLogic>
+
+</additional>
+
+
+

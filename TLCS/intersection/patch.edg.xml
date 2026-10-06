@@ -1,0 +1,338 @@
+<edges>
+   <edge id="E_TL3" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="E_TL4" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="E_TL6" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="E_TL7" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="E_TL8" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="N_TL0" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="N_TL2" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="N_TL3" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="N_TL6" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="N_TL7" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="S_TL0" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="S_TL2" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="S_TL4" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="S_TL6" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="S_TL8" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="TL0_N" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="TL0_S" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="TL0_TL" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="TL0_W" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="TL2_N" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="TL2_S" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="TL2_TL" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="TL2_TL5" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="TL3_E" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="TL3_N" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="TL3_TL" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="TL3_W" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="TL4_E" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="TL4_S" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="TL4_TL" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="TL4_W" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="TL5_TL2" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="TL5_TL6" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="TL5_TL7" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="TL5_TL8" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="TL6_E" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="TL6_N" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="TL6_S" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="TL6_TL5" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="TL7_E" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="TL7_N" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="TL7_TL5" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="TL7_W" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="TL8_E" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="TL8_S" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="TL8_TL5" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="TL8_W" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="TL_TL0" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="TL_TL2" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="TL_TL3" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="TL_TL4" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="W_TL0" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="W_TL3" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="W_TL4" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="W_TL7" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+   <edge id="W_TL8" numLanes="4">
+      <lane index="0" allow="pedestrian" width="2.00"/>
+      <lane index="1" allow="bus" width="3.20"/>
+      <lane index="2" allow="all" width="3.20"/>
+      <lane index="3" allow="all" width="3.20"/>
+   </edge>
+</edges>
