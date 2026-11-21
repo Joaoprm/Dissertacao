@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "TLCS — Traffic Light Control System (MAPPO)"
+message: "If you use this software, please cite it using the metadata from this file."
+type: software
+authors:
+
+family-names: "Matos"
+given-names: "João"
+affiliation: "ISEL — Instituto Superior de Engenharia de Lisboa"
+repository-code: "https://github.com/Joaoprm/Dissertacao/tree/main/TLCS"
+license: "MIT"
+date-released: "2026-11-21"
+preferred-citation:
+type: mastersthesis
+authors:
+
+family-names: "Matos"
+given-names: "João"
+affiliation: "ISEL — Instituto Superior de Engenharia de Lisboa"
+title: "Multimodal Urban Traffic Adaptive Control with AI and Visible Light Communication (VLC)"
+school: "Instituto Superior de Engenharia de Lisboa (ISEL)"
+year: 2026
